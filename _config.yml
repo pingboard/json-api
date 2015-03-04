@@ -18,14 +18,14 @@ port: 9876
 
 navigation:
 - title: Overview
-  url: /
+  url: /json-api/
 - title: Format
-  url: /format/
+  url: /json-api/format/
 - title: Extending
-  url: /extending/
+  url: /json-api/extending/
 - title: Examples
-  url: /examples/
+  url: /json-api/examples/
 - title: FAQ
-  url: /faq/
+  url: /json-api/faq/
 - title: About
-  url: /about/
+  url: /json-api/about/
