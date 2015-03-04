@@ -1,4 +1,4 @@
-url: http://pingboard.github.io/json-api
+url: http://jsonapi.pingboard.com
 safe: true
 lsi: false
 source: .
@@ -18,14 +18,14 @@ port: 9876
 
 navigation:
 - title: Overview
-  url: /json-api/
+  url: /
 - title: Format
-  url: /json-api/format/
+  url: /format/
 - title: Extending
-  url: /json-api/extending/
+  url: /extending/
 - title: Examples
-  url: /json-api/examples/
+  url: /examples/
 - title: FAQ
-  url: /json-api/faq/
+  url: /faq/
 - title: About
-  url: /json-api/about/
+  url: /about/
